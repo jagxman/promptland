@@ -2,7 +2,7 @@
 
 Promptland is an open-source AI prompting tool for the modern world to discover, create, and share creative prompts.
 
-![image](https://github.com/jagxman/promptland/assets/33289432/d2561f8d-b8a0-43d9-a857-84c5fa9d1365)
+![image](https://github.com/jagxman/promptland/assets/33289432/e18396b0-7a52-4c09-b5cb-b6f2437ecf4d)
 
 ## Features
 
