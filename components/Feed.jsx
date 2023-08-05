@@ -68,7 +68,6 @@ const Feed = () => {
     fetchPosts();
   }, []);
 
-  console.log(posts);
 
 
 
